@@ -5,6 +5,7 @@ import java.math.*;
 import java.util.regex.*;
 import java.lang.reflect.*;
 import static java.lang.System.in;
+
 class Prime{
     public void checkPrime(int... arr){
         for(int i=0;i<arr.length;i++){
